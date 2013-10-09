@@ -1,4 +1,4 @@
-
+#' Get CPU Stats 
 #' @param time the amount of time in milliseconds to take the measurement
 #' @author Theodore Van Rooy (\url{http://royaltyanalytics.com/})
 #' @export 
