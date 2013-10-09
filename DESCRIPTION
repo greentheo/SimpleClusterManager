@@ -1,10 +1,10 @@
-Package: nabel
+Package: SimpleClusterManager
 Type: OpenCPU Application
-Title: Nabel Demo application for OpenCPU
+Title: An OpenCPU app which helps manage R based cluster jobs
 Version: 1.0
 Date: 2013-07-07
-Author: Jeroen Ooms, Thomas Zumbrunn
-Maintainer: Jeroen <jeroenooms@gmail.com>
+Author: Theodore Van Rooy
+Maintainer: Theo <theo@royaltyanalytics.com>
 Encoding: UTF-8
 Description: OpenCPU
 License: Apache2
