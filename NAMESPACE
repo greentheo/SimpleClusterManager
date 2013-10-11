@@ -1,4 +1,6 @@
 export(getProcStats)
 export(nabel)
+export(procSummaryData)
+export(procSummaryPlot)
 import(httpRequest)
 import(lattice)
